@@ -1,2 +1,3 @@
-$ javac bettingGame.java
 # PractiseGame
+
+$ javac bettingGame.java
